@@ -1,4 +1,6 @@
-# Music_Store_Data_Analysis_Using_SQL
+# SQL Project: Music Store Data Analysis [EDA]
+
+![Project Banner](./assets/musicBanner.png)
 
 #  ✤ Project Description:
 - This project uses SQL to analyze the dataset of an online music store.
