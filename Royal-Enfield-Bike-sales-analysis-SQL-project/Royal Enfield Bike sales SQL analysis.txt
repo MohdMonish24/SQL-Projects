@@ -857,7 +857,7 @@ select * from sales
 select * from servicerecords
 
 
-/* 1. Find the date of the first purchase for each customer.*/
+1. Find the date of the first purchase for each customer.
 
 
 select min(saledate) as first_purchase,concat(firstname,lastname) as fullname
