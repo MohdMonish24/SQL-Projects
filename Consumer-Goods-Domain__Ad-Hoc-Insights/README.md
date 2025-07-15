@@ -1,40 +1,52 @@
-# Consumer-Goods-Domain__Ad-Hoc-Insights
+## Consumer-Goods-Analytics
+This project is part of the data analytics bootcamp at Codebasics.
 
-# Project Overview 📊
+### Video presentation link: 
 
-In this comprehensive initiative, we conducted an in-depth analysis of Atliq Hardware, a distinguished fictional entity specializing in computer hardware. The primary goal was to empower the executive management team with valuable insights, achieved through the proficient utilization of MySQL.
+### 📊 Project Focus: 
+Delivering valuable business insights to senior management at AtliQ Hardwares, a fictional yet forward-thinking computer hardware brand with a strong footprint in India and globally.
 
-# SQL Challenge - Insightful Queries 📈
-We harnessed the power of advanced SQL concepts—Joins, Subqueries, CTEs, and Window functions. Automation, using Stored Procedures and Views, was a key component. Domain knowledge on fiscal year, quarters, and profit & loss statements enriched our analysis.
+### 🔎 The Challenge:
+AtliQ Hardwares faced a key hurdle—limited access to timely and actionable data. In response, their Director of Data Analytics, Tony Sharma, launched a hands-on SQL challenge to assess the analytical and communication skills of aspiring junior analysts.
 
-# Major Insights 🌟
+### 🎯 Goal:
+Use SQL to solve 10 specific business queries related to sales, pricing trends, and inventory performance, and visualize findings in Power BI to guide effective decision-making.
 
-1. Market Presence 🌐-: 
-   Croma exclusively operated in the Indian market.
+### 💡 Key Learnings & Skills Gained:
+✔️ SQL Joins – Merged datasets to gain deeper insights into market and sales patterns.
 
-2. Sales Growth 📈-: 
-   Croma India experienced a whopping 180% sales increase in FY 2021.
+✔️ Filtering & Grouping – Extracted and grouped key metrics using WHERE, GROUP BY, and HAVING.
 
-3. Product Portfolio Expansion 🛍️-:
-   The percentage of unique products increased by 36.33% in 2021 compared to 2020.
+✔️ Aggregation – Applied SUM(), COUNT(), and AVG() to summarize critical KPIs.
 
-4. Segment-wise Product Increase 🚀-:
-   Accessories and Networking segments saw the highest (34) and lowest (3) increase in unique products, respectively, in 2021 vs. 2020.
+✔️ Power BI Integration – Translated insights into clear and interactive visualizations.
 
-5. Manufacturing Cost Variations 💰-:
-   AQ HOME Allin1 Gen 2 and AQ Master wired x1 Ms had the highest and lowest manufacturing costs, respectively.
+✔️ CTEs – Streamlined and structured complex logic for easier interpretation.
 
-6. Top Customers and Discounts 🏷️-:
-   The top 5 customers with the highest average pre-invoice discount percentage in FY 2021 (India) were Flipkart, Viveks, Ezone, Croma, and Amazon.
+✔️ Window Functions – Used RANK() and similar tools to identify top-performing products.
 
-7. Product Quantity Sold 📦-:
-   In FY 2020, Q1 (Sep-Nov 2019) and Q3 had the maximum and minimum sold quantity of products, respectively.
 
-8. Top Products in Divisions 🏆-:
-   For FY 2021, the top 3 products in the N&S, P&A, and PC divisions were pen drives, mouse, and personal laptops, respectively.
+### 📊 Key Insights Uncovered:
+📌 Unique products grew by 36.33% from 2020 to 2021.
 
-# Conclusion 🌐
-This project not only cracked the ad-hoc requests but showcased our prowess in advanced SQL and domain knowledge. Automation ensures that our analysis is not just 
-insightful but also scalable and sustainable.
+📌 Retailer channel led with ₹1219M+, contributing 73% of gross sales.
 
-In conclusion, we've armed Atliq Hardwares with a robust tool for strategic decision-making. Let the growth journey begin! 🚀
+📌 Accessories had the highest product variety growth.
+
+📌 Flipkart topped the average discount chart in India.
+
+📌 Q1 2020 recorded the highest sales volume.
+
+### 🧠 Key Learnings:
+💡 Business context is essential — SQL is just a tool.
+
+💡 Clean queries are great, but clean communication is greater.
+
+💡 Executives don’t need code; they need clarity and impact.
+
+💡 Simplicity, structure, and storytelling win over technical complexity.
+
+### 🛠️ Tools & Techniques Used:
+🔹 SQL (Joins, Aggregates, CTEs, Window Functions).
+
+🔹 Business Insight Articulation.
